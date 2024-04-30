@@ -1,0 +1,29 @@
+ html {
+    text-size-adjust: 100%;
+    font-feature-settings: normal;
+    -webkit-tap-highlight-color: transparent;
+    font-family: Söhne, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif, "Helvetica Neue", Arial, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-variation-settings: normal;
+    line-height: 1.6;
+    tab-size: 4;
+}
+body{
+  max-width:500px;
+  margin:auto;
+}
+h1,h2,h3,h4,h5,p,nav{
+ margin:0.8rem 0;
+}
+h1{
+ margin:1.6rem 0;
+}
+header,footer{
+  font-size:0.75em;
+}
+header h1{
+  font-size:1.4rem;
+  margin:0;
+}
+header a,footer a{
+  font-size:inherit;
+}
